@@ -1,0 +1,12 @@
+Package: np1way
+Type: Package
+Title: Nonparametric group comparisons
+Version: 1.0
+Date: 2013-08-26
+Author: Rob Kabacoff
+Maintainer: Robert Kabacoff <robk@statmethods.net>
+Description: This package calcualtes pairwise nonparametric multiple
+    comparisons based on the Wilcoxon test. p-values are adjusted
+    using the p.adjust() function. Results are plotted via annotated
+    boxplots that indicate significant group differences.
+License: MIT

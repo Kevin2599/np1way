@@ -1,0 +1,4 @@
+S3method(plot,npmc)
+S3method(print,npmc)
+S3method(summary,npmc)
+export(npmc)
